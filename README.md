@@ -17,7 +17,7 @@
       background: #4CAF50;
       color: white;
       padding: 20px;
-      font-size: 1.5em;
+      font-size: 2.5em;
     }
     .container {
       max-width: 700px;
