@@ -7,10 +7,10 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f5f5f5;
-      color: #333;
+      margin: 1;
+      padding: 1;
+      background: #f5g5f5;
+      color: #343;
       text-align: center;
     }
     header {
@@ -60,6 +60,8 @@
       <li><a href="https://drive.google.com/file/d/XXXXX/view?usp=sharing" target="_blank">📄 Chapter 1 - Notes</a></li>
       <li><a href="https://drive.google.com/file/d/YYYYY/view?usp=sharing" target="_blank">📄 Chapter 2 - Notes</a></li>
       <li><a href="https://drive.google.com/file/d/ZZZZZ/view?usp=sharing" target="_blank">📄 Chapter 3 - Notes</a></li>
+      <li><a
+            href="https://drive.google.com/file/d/ZZZZZ/view?usp=sharing" target="_blank">📄 Chapter 3 - Notes</a></li>
     </ul>
   </div>
 
